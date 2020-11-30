@@ -1,0 +1,32 @@
+Diamond Prediction
+========================================================
+author: 
+date: 
+autosize: true
+
+What is this app about?
+========================================================
+
+In this app, we will try to predict the prices of a diamond based on following properties:
+
+- Carats
+- Cut Type
+- Color
+- Clarity
+
+Dataset:
+========================================================
+The Diamond dataset comes as a part of ggplot2 package.
+
+```{r}
+library("ggplot2")
+head(diamonds)
+```
+
+Relevant Links to work:
+========================================================
+- Github: https://github.com/sk-shivam/Course-Project-Shiny-Application-and-Reproducible-Pitch
+- Shiny App: https://shivamsk.shinyapps.io/DiamondPredictionApp/?_ga=2.11127604.1603145427.1606754924-889238506.1606754924
+
+
+Go Ahead and Try it Out!!!!!
